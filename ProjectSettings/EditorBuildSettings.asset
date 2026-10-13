@@ -6,7 +6,31 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Intro.unity
+    guid: 2eea2e7a3e19ae346aac6d6eb286f9c3
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/GameSelect.unity
+    guid: 9ac213e2cb5974d4891328bd89fb6400
+  - enabled: 1
+    path: Assets/Scenes/MemoryEasy.unity
+    guid: 2828b1b47d4afc6469a2e30509ac92ea
+  - enabled: 1
+    path: Assets/Scenes/MemoryMedium.unity
+    guid: 713cb5976ab67634593d28cbaad70e7e
+  - enabled: 1
+    path: Assets/Scenes/MemoryHard.unity
+    guid: 80b52dffb7b23de44a663ca2b7ef39bf
+  - enabled: 1
+    path: Assets/Scenes/MemoryGame.unity
+    guid: ee972031d851a9d41b0c60ac670577cf
+  - enabled: 1
+    path: Assets/Scenes/Results.unity
+    guid: 1c8914948bb952b4095c277c9e16308e
+  - enabled: 1
+    path: Assets/Scenes/Stats.unity
+    guid: e09cdaa998d7ede4f837ba6074beedb2
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
